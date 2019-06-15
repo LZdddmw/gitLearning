@@ -18,7 +18,7 @@ static final int SIZE = 50;
 		this.panels=panels;
 	}
 	
-	protected JPanel[][] getPanels() {
+	protected JPanel[][] getPanels() {//dosomething
 		return this.panels;
 	}
 	
